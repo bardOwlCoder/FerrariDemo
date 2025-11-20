@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    font-family: 'notosans-regular';
+}
+
+@font-face {
+    font-family: notosans-regular;
+    src: url(./assets/fonts/NotoSans/static/NotoSans-Regular.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: notosans-bold;
+    src: url(./assets/fonts/NotoSans/static/NotoSans-Bold.ttf);
+    font-style: normal 
+}
